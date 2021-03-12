@@ -6,6 +6,7 @@
 *.o.*
 *.a
 *.s
+*.in
 Kbuild
 
 #
